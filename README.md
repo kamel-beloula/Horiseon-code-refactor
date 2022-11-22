@@ -1,17 +1,21 @@
-# <Your-Project-Title>
+# Module 1:HTML, CSS, and Git
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+So, you are interested  in front end web development, just like me. 
+This project will provide you with the building blocks needed to built web pages.
 
-## Table of Contents (Optional)
+**HTML**, or **Hypertext Markup Language**, is at the heart of every website. As the standard language used to build the structure of a webpage, HTML allows us to define elements like paragraphs, images, links, forms, and more.
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+**Cascading Style Sheets**, or **CSS**, is used to add styling to the elements created with HTML. CSS determines how elements are presented on the page, including font, color, size, positioning of elements, and even animation.
+
+In this module, you'll learn how to build webpages that use HTML and CSS to define their structure and style. You'll also be introduced to **Git**, a version control system that stores your code and its history, as well as separate versions of the code. 
+
+These are the essential skills and tools that you'll use throughout your career.
+
+## Table of Contents
+
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -24,6 +28,11 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
+The first, and perhaps most important, file we'll create is **index.html**, which is the default entry point for any web application. All of our subsequent work will build on this initial starting point. The file suffix .html refers to HTML, or Hypertext Markup Language. HTML allows us to format webpages and text in a similar way to how a word processor formats documents and the text inside them. However, the biggest difference between HTML and a word processor is the ability to link between any document that's on the web, anywhere in the world. This is the **"hypertext"** in HTML.
+
+Though HTML is enough to create a simple website, it falls a bit short in the design department. So we'll add color, fonts, and element positioning by adding CSS (Cascading Style Sheets) to our HTML files to make them visually dynamic.
+
+Subsequent units will build on this foundation of HTML, CSS, and version control as we add JavaScript, servers, and databases to our stack to build interactive web applications.
 Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
@@ -65,6 +74,8 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
+
 Unit 01: Introduction to Web Development, HTML, CSS, and Git
 Overview
 Congratulations! This is the first step in your journey towards a career in full-stack web development. There are many paths that you can take in this field and this unit is the foundation for all of them. Every full-stack web developer must master HTML and CSS, as well as learn how to program browsers, servers, and databases.
