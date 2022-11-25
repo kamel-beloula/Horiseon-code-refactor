@@ -3,14 +3,16 @@
 ## Description
 
 
-So, you are interested  in front end web development, just like me. 
-This project will provide you with the building blocks needed to built web pages.
+So, you are interested  in front end web development. You came to the righy place.
+This project will provide you with the knowledge and the skills required to master buildong websites. 
 
-**HTML**, or **Hypertext Markup Language**, is at the heart of every website. As the standard language used to build the structure of a webpage, HTML allows us to define elements like paragraphs, images, links, forms, and more.
+In this first unit we will be learning about **HTML**, **CSS** and **GIT**.
 
-**Cascading Style Sheets**, or **CSS**, is used to add styling to the elements created with HTML. CSS determines how elements are presented on the page, including font, color, size, positioning of elements, and even animation.
+**HTML**, or **Hypertext Markup Language**, is at the heart of every website. As the standard language used to build the structure of a webpage, HTML allows us to define elements like paragraphs, images, links, forms, and more.[1]
 
-In this module, you'll learn how to build webpages that use HTML and CSS to define their structure and style. You'll also be introduced to **Git**, a version control system that stores your code and its history, as well as separate versions of the code. 
+**Cascading Style Sheets**, or **CSS**, is used to add styling to the elements created with HTML. CSS determines how elements are presented on the page, including font, color, size, positioning of elements, and even animation.[1]
+
+In this module, you'll learn how to build webpages that use HTML and CSS to define their structure and style. You'll also be introduced to **Git**, a version control system that stores your code and its history, as well as separate versions of the code. [1]
 
 These are the essential skills and tools that you'll use throughout your career.
 
@@ -24,7 +26,13 @@ These are the essential skills and tools that you'll use throughout your career.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Through out this unit and future units, we will need a set of apps and programs to install to help you practice the codes and visualise the results. 
+
+We sill need to have an Internet browser, I suggest Google Chrome, which you can download here. (https://www.google.co.uk/chrome/) if you don't have it already installed.
+
+**Visual Studio Code**, also commonly referred to as **VS Code**, a source-code editor which help us create out HTML and CSS files. Also can be downloaded here (https://code.visualstudio.com/download).
+
+Finally, git and **github** account
 
 ## Usage
 
