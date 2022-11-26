@@ -8,7 +8,7 @@ This project will provide you with the knowledge and the skills required to mast
 
 In this first unit we will be learning about **HTML**, **CSS** and **GIT**.
 
-**HTML**, or **Hypertext Markup Language**, is at the heart of every website. As the standard language used to build the structure of a webpage, HTML allows us to define elements like paragraphs, images, links, forms, and more.[1]
+**HTML**, or **Hypertext Markup Language**, is at the heart of every website. As the standard language used to build the structure of a webpage, HTML allows us to define elements like paragraphs, images, links, forms, and more.[1](#1)
 
 **Cascading Style Sheets**, or **CSS**, is used to add styling to the elements created with HTML. CSS determines how elements are presented on the page, including font, color, size, positioning of elements, and even animation.[1]
 
@@ -28,11 +28,12 @@ These are the essential skills and tools that you'll use throughout your career.
 
 Through out this unit and future units, we will need a set of apps and programs to install to help you practice the codes and visualise the results. 
 
-We sill need to have an Internet browser, I suggest Google Chrome, which you can download here. (https://www.google.co.uk/chrome/) if you don't have it already installed.
+We sill need to have an Internet Browser, I suggest **Google Chrome**, which you can download [here](https://www.google.co.uk/chrome/), if you don't have it already installed.
 
-**Visual Studio Code**, also commonly referred to as **VS Code**, a source-code editor which help us create out HTML and CSS files. Also can be downloaded here (https://code.visualstudio.com/download).
+**Visual Studio Code**, also commonly referred to as **VS Code**, a source-code editor which help us create out HTML and CSS files. Also can be downloaded [here](https://code.visualstudio.com/download).
 
-Finally, git and **github** account
+Finally, git and a **github** account. 
+Please visit [Youtube](www.youyube.com) to know more about git and openand look for hot to install git on you computer and how to open an account on **github.com**.
 
 ## Usage
 
@@ -50,6 +51,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```
 
 ## Credits
+
+Trilogy Education Services Frontend Web Development bootcamp website.
 
 List your collaborators, if any, with links to their GitHub profiles.
 
@@ -162,3 +165,4 @@ Dev Docs
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 Difference between HTML img tag and CSS background image
 Posted By : Milind Ahuja | 27-Nov-2017
+[#1] bootcamp
