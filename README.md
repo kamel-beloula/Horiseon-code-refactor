@@ -1,33 +1,36 @@
 # HORISEON Website Refactor
 
+
 ## Description
 
 The Horiseon website is designed to promote its business. Horiseon's business is to help other businesses improve their online presence. Horiseon offers services such as Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
 
 Deployed application: https://kamel-beloula.github.io/Horiseon-code-refactoring-/
 
-## Table of Contents
 
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
+
 ## Installation
+
 In order to visualise the application you will only need a web browser, which usually comes pre-installed on every nerwork device.
 
-If you need to download one, you can dowmload **Google Chrome** [here](https://www.google.co.uk/chrome/).
+If you need to download one, you can dowmload [**Google Chrome**](https://www.google.co.uk/chrome/).
 
 
 ## Usage
-you can open the application by following the link to the live website, or you can open the repository on [www.github.com](https://github.com/kamel-beloula/Horiseon-code-refactoring-)
+
+you can open the application by following the link to the deployed website in the description. Or you can open the repository on [www.github.com](https://github.com/kamel-beloula/Horiseon-code-refactoring-)
 
 
 ## Credits
 
 Trilogy Education Services Frontend Web Development bootcamp website.
-
 
 
 ## License
