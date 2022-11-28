@@ -18,7 +18,7 @@ Deployed application: https://kamel-beloula.github.io/Horiseon-code-refactor/
 
 ## Installation
 
-In order to visualise the application you will only need a web browser, which usually comes pre-installed on every nerwork device.
+In order to visualise the application you will only need a web browser, which usually comes pre-installed on every device that can access the internet.
 
 If you need to download one, you can dowmload [**Google Chrome**](https://www.google.co.uk/chrome/).
 
