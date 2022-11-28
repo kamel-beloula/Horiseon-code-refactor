@@ -5,7 +5,7 @@
 
 The Horiseon website is designed to promote its business. Horiseon's business is to help other businesses improve their online presence. Horiseon offers services such as Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
 
-Deployed application: https://kamel-beloula.github.io/Horiseon-code-refactoring-/
+Deployed application: https://kamel-beloula.github.io/Horiseon-code-refactor/
 
 
 ## Table of Contents
@@ -25,7 +25,7 @@ If you need to download one, you can dowmload [**Google Chrome**](https://www.go
 
 ## Usage
 
-you can open the application by following the link to the deployed website in the description. Or you can open the repository on [www.github.com](https://github.com/kamel-beloula/Horiseon-code-refactoring-)
+you can open the application by following the link to the deployed website in the description. Or you can open the repository on [www.github.com](https://github.com/kamel-beloula/Horiseon-code-refactor)
 
 
 ## Credits
